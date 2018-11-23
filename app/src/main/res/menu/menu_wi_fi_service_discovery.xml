@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.welborn.tech.wifichat.WiFiServiceDiscoveryActivity">
+
+    <item android:id="@+id/about"
+        android:icon="@android:drawable/btn_star"
+        android:title="About"
+        android:showAsAction="ifRoom|withText"/>
+
+</menu>
